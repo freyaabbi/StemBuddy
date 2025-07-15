@@ -1,0 +1,97 @@
+{
+  "company_overview": {
+    "description": "STEMROBO Technologies is the leading Edtech company in India that specializes in providing comprehensive end-to-end solutions for K-12 schools, aligning with the National Education Policy (NEP) 2020. It's an Educational Technology Company focused on leveraging Technology in Education, which acts as an enabler for students to learn and innovate in the field of STEAM, Robotics, IoT & Artificial Intelligence (AI).",
+    "established": "June 18, 2016",
+    "location": "Noida, India",
+    "mission": "To equip students and teachers with 21st-century skills (STEM, Coding, Robotics, AI, ML, IoT, AR & VR) necessary to thrive in the rapidly changing innovation landscape.",
+    "corporate_identification": {
+      "CIN": "U74999UP2016PTC084155",
+      "registration_number": "84155",
+      "authorized_share_capital": "Rs. 1,000,000",
+      "founders": "anurag gupta and rajeev tiwari"
+    }
+  },
+  "products_services": {
+    "labs": [
+      "STEM & Robotics Labs",
+      "AI & IoT Labs",
+      "AR/VR Labs",
+      "Atal Tinkering Labs (ATL)",
+      "Pre-Tinkering Labs",
+      "21st Century Innovation Labs"
+    ],
+    "stem_robotics_lab": {
+      "description": "Gateway to an exciting world of innovation and learning where students and educators can explore STEM and Robotics concepts."
+    },
+    "ai_iot_lab": {
+      "description": "Tailored to cater to educational needs of K-12 students through hands-on activities and real-life projects."
+    },
+    "ar_vr_lab": {
+      "description": "Provides engaging platform to explore, create, and learn in simulated environments, helping grasp academic concepts more easily."
+    },
+    "atal_tinkering_lab": {
+      "description": "Comprehensive solution provider for setting up ATLs with DIY kits, products, and methodologies."
+    },
+    "pre_tinkering_lab": {
+      "description": "Blends education with excitement through engaging activities and STEMROBO products for early age learning."
+    },
+    "21st_century_showcase_school": {
+      "description": "Cohort of inspiring schools established to encourage 21st century skills in line with NEP 2020 & UNSDGs."
+    }
+  },
+  "key_products_solutions": {
+    "ai_connect": "End-to-end AI Lab setup platform aligned with NEP 2020",
+    "diy_kits": "Range of unique Do It Yourself kits for hands-on learning",
+    "curriculum_support": "Comprehensive curriculum aligned with NEP 2020",
+    "sil": "STEAM International Learning focusing on international standards",
+    "lms": "Learning Management System for students"
+  },
+  "credentials_recognition": [
+    "Electropreneur Park Incubated company",
+    "MeITY Recognized Startup",
+    "NASSCOM Member",
+    "Part of Electropreneur Park (a funded initiative)"
+  ],
+  "educational_focus": {
+    "age_group": "K-12 students",
+    "nep_2020_alignment": "Focuses on developing 21st-century skills and innovative learning methodologies",
+    "subjects": [
+      "STEM",
+      "STEAM",
+      "Coding and Programming",
+      "Robotics",
+      "Artificial Intelligence (AI)",
+      "Machine Learning (ML)",
+      "Internet of Things (IoT)",
+      "Augmented Reality (AR)",
+      "Virtual Reality (VR)"
+    ],
+    "learning_approach": "Hands-on, experiential learning with DIY kits and practical projects",
+    "teacher_training": "Provides support for teachers to implement lab setups and methodologies"
+  },
+  "technology_innovation": {
+    "company_type": "Design & Product Company",
+    "differentiation": "Comprehensive end-to-end solutions with unique DIY kits and NEP 2020 alignment",
+    "manufacturing": "Produces electronic components, 3D printers, and educational kits",
+    "focus_area": "STEAM education with emphasis on robotics, AI, coding and emerging technologies"
+  },
+  "learning_platform": {
+    "name": "STEMROBO LEARN",
+    "features": [
+      "Highly curated STEM courses",
+      "Interesting quizzes",
+      "Premium material by STEM educators",
+      "DIY Kit based courses",
+      "Grade-wise organized courses",
+      "Analytics-driven approach"
+    ],
+    "approach": "Analytics-driven with focus on real competency and interest"
+  },
+  "business_investment": {
+    "investments": [
+      "Tinker Coders (seed investment)"
+    ],
+    "business_model": "B2B EdTech serving K-12 schools",
+    "government_recognition": "MeITY recognized startup"
+  }
+}
